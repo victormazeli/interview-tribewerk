@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "ba4e34100b510f",
+    "password": "5bbefde8",
+    "database": "heroku_52c148972ce8454",
+    "host": "us-cdbr-east-05.cleardb.net",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
